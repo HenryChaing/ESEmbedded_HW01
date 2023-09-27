@@ -15,7 +15,7 @@ int main()
 	func_ptr_arr[0] = plus;
 	func_ptr_arr[1] = minus;
 	func_ptr_arr[2] = multiply;
-	func_ptr_arr[3] = divide;
+	func_ptr_arr[3] = divided;
 	printf("key a Function \nEX: 1 + 1\n");
 	scanf("%i %c %i", &a, &b, &c);
 	//IF ELSE IF
